@@ -133,31 +133,31 @@
 						"address": "0xf1848bE1C6dA55982F20406e89C8EdF336C8272b",
 						"blsKey": "23398e6d1a4f4a36e399413a7816f3d31afa7569e5b6c513a7c4b95f79a4b4c92bf0a4db5714f6884ccc0d980fc5fad96beb350c8bacd301185458efa53bea110ee810ff6b23ec87bd3e52874dc43077f71f4f535b4bf44aaf890a94492ff9800e459de5be7311b11243d1150542942aac9ef4abea45fbc0f9eed200a2800ac3",
 						"stake": "0xd3c21bcecceda1000000",
-						"multiAddr": "/dns4/validator-003.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAm96cKpv25oBuSB684kJYGkdigx7C5QE3SGzUkaoXkcPMq"
+						"multiAddr": "/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAm96cKpv25oBuSB684kJYGkdigx7C5QE3SGzUkaoXkcPMq"
 					},
 					{
 						"address": "0xA047F0b6Ca593B637a1eB61157598bE024F15EA1",
 						"blsKey": "123ea0a98af4d2c85dd8e6e6900a59b47b6982232748d572eacc641614827b301e09117c76489d709f547e4b3a3daf43bf8aac7563090e1df6e34a97099ed3e521fcb53354b535c2261cfb51b5ceb99efbbbe159b5a3d9bf32905381b96e75b70dabe3d7b070dbbdd892225a5de8a95587a41b283c43903bf05caaed43ac74aa",
 						"stake": "0xd3c21bcecceda1000000",
-						"multiAddr": "/dns4/validator-001.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAmTtmyHWBrmX23JR48bBmnUv9Gf1qvBq9ej1GRxLqt1Y2Q"
+						"multiAddr": "/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAmTtmyHWBrmX23JR48bBmnUv9Gf1qvBq9ej1GRxLqt1Y2Q"
 					},
 					{
 						"address": "0x718E004Ae329170b27442f4BDD9AD45AEFef8394",
 						"blsKey": "13f1f599915ca522e1fa0ec62bb481b284f3b49e95ede8cd6eda5c8526169654209a3aa8abb53dc986cd8183e655be7e1b0358b699b4ce74d2ba08a5129513670489df3bf4df6ffb747824070df45d03c041747c32ecec038e5af1bcef3ef723019cfe8ad454aa51129ce254c368adc25a1c9a9032e963f3d7b3bb8280a11f88",
 						"stake": "0xd3c21bcecceda1000000",
-						"multiAddr": "/dns4/validator-004.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAmMKcn3owvBHd1VcmuwDortbAzfVUkudZ2oQcvxCgU3Tgf"
+						"multiAddr": "/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAmMKcn3owvBHd1VcmuwDortbAzfVUkudZ2oQcvxCgU3Tgf"
 					},
 					{
 						"address": "0x208a364c8aBCbA24aC491EE0D776142A554A56a7",
 						"blsKey": "2221912e509b49f36d429ec684579ebdb57eb033f9719eb97beb5a99c592ec710a8283375511f9198105198523b02c102a31ba1d6a51b564b532f9916b9516330fcbab14ac0d9b22e2c05bc1a8b571977933e890fc338d2debb401cfdf41e710137a4afdcd940c7e0c3d0ae6b985aa00bcadb46ae0b7449789c8cadd5960bc27",
 						"stake": "0xd3c21bcecceda1000000",
-						"multiAddr": "/dns4/validator-002.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAmHZ96CHPfTqcSpwDqmxg36VHGXfhKG4co2BTmu5r8nL2E"
+						"multiAddr": "/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAmHZ96CHPfTqcSpwDqmxg36VHGXfhKG4co2BTmu5r8nL2E"
 					},
 					{
 						"address": "0x1790e1c7ad392Aa2d21ba95eD26bF08191F5BC8D",
 						"blsKey": "0f5644cde7b65520ecbd4d8bc9e8960636b84940a815dd9ea41725401797a14a00532443aad319af0d64379db49bd1c4a7b31ec16ee73d16d127a80cc30782b701d8fb2e3f18f263f305ddd65f530957bbef11c6eeaa44e9bbfb951d042cf7012207475faa7fd1f6e2aba09db1921920e3cea3fdb73a7e21678562bdcbca32b3",
 						"stake": "0xd3c21bcecceda1000000",
-						"multiAddr": "/dns4/validator-005.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAmCtrBbFS3rTBDeHziXHNZW3iz2gKk31Fy56Pu5Dt9cHuh"
+						"multiAddr": "/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAmCtrBbFS3rTBDeHziXHNZW3iz2gKk31Fy56Pu5Dt9cHuh"
 					}
 				],
 				"bridge": {
