@@ -215,11 +215,10 @@
 		"burnContractDestinationAddress": "0x0000000000000000000000000000000000000000"
 	},
 	"bootnodes": [
-		"/dns4/validator-003.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAm96cKpv25oBuSB684kJYGkdigx7C5QE3SGzUkaoXkcPMq",
-		"/dns4/fullnode-001.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAm5mQg7Kyou2EK9x1qpK9kWcGio4mc3Br8YTG3Gwx1btwH",
-		"/dns4/validator-001.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAmTtmyHWBrmX23JR48bBmnUv9Gf1qvBq9ej1GRxLqt1Y2Q",
-		"/dns4/validator-004.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAmMKcn3owvBHd1VcmuwDortbAzfVUkudZ2oQcvxCgU3Tgf",
-		"/dns4/validator-002.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAmHZ96CHPfTqcSpwDqmxg36VHGXfhKG4co2BTmu5r8nL2E",
-		"/dns4/validator-005.testnet5.edge.hytopia.private/tcp/10001/p2p/16Uiu2HAmCtrBbFS3rTBDeHziXHNZW3iz2gKk31Fy56Pu5Dt9cHuh"
+		"/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAm96cKpv25oBuSB684kJYGkdigx7C5QE3SGzUkaoXkcPMq",
+		"/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAmTtmyHWBrmX23JR48bBmnUv9Gf1qvBq9ej1GRxLqt1Y2Q",
+		"/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAmMKcn3owvBHd1VcmuwDortbAzfVUkudZ2oQcvxCgU3Tgf",
+		"/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAmHZ96CHPfTqcSpwDqmxg36VHGXfhKG4co2BTmu5r8nL2E",
+		"/dns4/hytopia-testnet-nodes-1f182b3a45ae50c9.elb.us-west-2.amazonaws.com/tcp/10001/p2p/16Uiu2HAmCtrBbFS3rTBDeHziXHNZW3iz2gKk31Fy56Pu5Dt9cHuh"
 	]
 }
