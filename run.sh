@@ -1,21 +1,22 @@
 #!/bin/bash
 
-echo "!!!!!~  :!!!!! ^!!!!!^  ~!!!!!.^!!!!!!!!!!!!!^ ~!!!!!!!!!!!!! ^!!!!!!!!!!!!!! ^!!!!! ^!!!!!!!!!!!!!!"
-echo "!!!!!~  :!!!!! ^!!!!!^  ~!!!!!.^!!!!!!!!!!!!!^ ~!!!!!!!!!!!!! ^!!!!!!!!!!!!!! ^!!!!! ^!!!!!!!!!!!!!!"
-echo "!!!!!!^^~!!!!! ^!!!!!~^^!!!!!!.^!!!!!!!!!!!!!^ ~!!!!!!!!!!!!! ^!!!!!!!!!!!!!! ^!!!!! ^!!!!!!!!!!!!!!"
-echo "!!!!!!!!!!!!!! ^!!!!!!!!!!!!!!.^!!!!!!!!!!!!!~ ~!!!!!!!!!!!!! ^!!!!!!!!!!!!!!.^!!!!! ^!!!!!!!!!!!!!!"
-echo "!!!!!!^^~!!!!! ^^^^^!!!!!!^^^^ :^^^~!!!!!~^^^: ~!!!!!!!!!!!!! ^!!!!!~^^^^^^^^ ^!!!!! ^!!!!!~^^!!!!!!"
-echo "!!!!!~  :!!!!!     .!!!!!~         :!!!!!^     ~!!!!!!!!!!!!! ^!!!!!^         ^!!!!! ^!!!!!:  ~!!!!!"
-echo "!!!!!~  :!!!!!     .!!!!!~         :!!!!!^     ~!!!!!!!!!!!!! ^!!!!!^         ^!!!!! ^!!!!!:  ~!!!!!"
-echo "----------------------------------------------------------------------------------------------------"
+echo "!!!!!   !!!!!  !!!!!    !!!!!  !!!!!!!!!!!!!  !!!!!!!!!!!!!  !!!!!!!!!!!!!!  !!!!!  !!!!!!!!!!!!!!"
+echo "!!!!!   !!!!!  !!!!!    !!!!!  !!!!!!!!!!!!!  !!!!!!!!!!!!!  !!!!!!!!!!!!!!  !!!!!  !!!!!!!!!!!!!!"
+echo "!!!!!   !!!!!  !!!!!    !!!!!  !!!!!!!!!!!!!  !!!!!!!!!!!!!  !!!!!!!!!!!!!!  !!!!!  !!!!!!!!!!!!!!"
+echo "!!!!!!!!!!!!!  !!!!!!!!!!!!!!  !!!!!!!!!!!!!  !!!!!!!!!!!!!  !!!!!!!!!!!!!!  !!!!!  !!!!!!!!!!!!!!"
+echo "!!!!!!!!!!!!!      !!!!!           !!!!!      !!!!!!!!!!!!!  !!!!!           !!!!!  !!!!!    !!!!!"
+echo "!!!!!   !!!!!      !!!!!           !!!!!      !!!!!!!!!!!!!  !!!!!           !!!!!  !!!!!    !!!!!"
+echo "!!!!!   !!!!!      !!!!!           !!!!!      !!!!!!!!!!!!!  !!!!!           !!!!!  !!!!!    !!!!!"
+echo "--------------------------------------------------------------------------------------------------"
 echo "Website: https://hytopia.com"
 echo "Twitter: https://twitter.com/hytopiagg"
 echo "Discord: https://discord.gg/hytopiagg"
 echo ""
-echo "If this is the first time running your full node, it can take a while to sync and get up to date with"
-echo "the current state of the HYTOPIA chain. Please be patient while your node syncs. Should the syncing "
-echo "process be interrupted, it will resume from its last checkpoint the next time you run your node."
-echo "----------------------------------------------------------------------------------------------------"
+echo "If this is the first time running your full node, it can take a while to sync and get up to date "
+echo "with the current state of the HYTOPIA chain. Please be patient while your node syncs. Should the "
+echo "syncing process be interrupted, it will resume from its last checkpoint the next time you run "
+echo "your node."
+echo "--------------------------------------------------------------------------------------------------"
 
 echo "Starting HYTOPIA fullnode..."
 
@@ -76,4 +77,5 @@ fi
 
 $EDGE_BIN_PATH server --data-dir "${HYTOPIA_NETWORK}/data" \
                       --chain "${HYTOPIA_NETWORK}/genesis.json" \
-                      --seal false
+                      --seal false \
+                      2>&1 | sed 's/polygon/hytopia/g'

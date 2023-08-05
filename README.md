@@ -8,6 +8,6 @@ Open your terminal
 
 1. `git clone https://github.com/Topia-Game/hytopia-full-node.git`
 1. `cd hytopia-full-node`
-1. `sh run.sh testnet`
+1. `bash ./run.sh testnet`
 
 Your node should begin syncing with the HYTOPIA testnet chain. This can take a few hours or more.
