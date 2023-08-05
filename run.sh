@@ -57,8 +57,6 @@ fi
 
 EDGE_BIN_PATH="./bin/polygon-edge/${EDGE_BIN_OS}_${EDGE_BIN_ARCH}/polygon-edge"
 
-echo "Target bin path: $EDGE_BIN_PATH"
-
 #
 # Generate secrets if necessary
 #
