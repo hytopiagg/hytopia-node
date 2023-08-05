@@ -1,5 +1,22 @@
 #!/bin/bash
 
+echo "!!!!!~  :!!!!! ^!!!!!^  ~!!!!!.^!!!!!!!!!!!!!^ ~!!!!!!!!!!!!! ^!!!!!!!!!!!!!! ^!!!!! ^!!!!!!!!!!!!!!"
+echo "!!!!!~  :!!!!! ^!!!!!^  ~!!!!!.^!!!!!!!!!!!!!^ ~!!!!!!!!!!!!! ^!!!!!!!!!!!!!! ^!!!!! ^!!!!!!!!!!!!!!"
+echo "!!!!!!^^~!!!!! ^!!!!!~^^!!!!!!.^!!!!!!!!!!!!!^ ~!!!!!!!!!!!!! ^!!!!!!!!!!!!!! ^!!!!! ^!!!!!!!!!!!!!!"
+echo "!!!!!!!!!!!!!! ^!!!!!!!!!!!!!!.^!!!!!!!!!!!!!~ ~!!!!!!!!!!!!! ^!!!!!!!!!!!!!!.^!!!!! ^!!!!!!!!!!!!!!"
+echo "!!!!!!^^~!!!!! ^^^^^!!!!!!^^^^ :^^^~!!!!!~^^^: ~!!!!!!!!!!!!! ^!!!!!~^^^^^^^^ ^!!!!! ^!!!!!~^^!!!!!!"
+echo "!!!!!~  :!!!!!     .!!!!!~         :!!!!!^     ~!!!!!!!!!!!!! ^!!!!!^         ^!!!!! ^!!!!!:  ~!!!!!"
+echo "!!!!!~  :!!!!!     .!!!!!~         :!!!!!^     ~!!!!!!!!!!!!! ^!!!!!^         ^!!!!! ^!!!!!:  ~!!!!!"
+echo "----------------------------------------------------------------------------------------------------"
+echo "Website: https://hytopia.com"
+echo "Twitter: https://twitter.com/hytopiagg"
+echo "Discord: https://discord.gg/hytopiagg"
+echo ""
+echo "If this is the first time running your full node, it can take a while to sync and get up to date with"
+echo "the current state of the HYTOPIA chain. Please be patient while your node syncs. Should the syncing "
+echo "process be interrupted, it will resume from its last checkpoint the next time you run your node."
+echo "----------------------------------------------------------------------------------------------------"
+
 echo "Starting HYTOPIA fullnode..."
 
 #
@@ -19,9 +36,9 @@ echo "Target network: ${HYTOPIA_NETWORK}"
 # Determine edge binary path
 #
 
-if [ "$(uname)" == "Darwin" ]; then
+if [[ "$(uname)" == "Darwin" ]]; then
   EDGE_BIN_OS="darwin"
-elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
+elif [[ "$(expr substr $(uname -s) 1 5)" == "Linux" ]]; then
   EDGE_BIN_OS="linux"
 else
   echo "Only Mac (Darwin) and Linux operating systems are currently supported for running a fullnode. Found: ${uname}" >&2
