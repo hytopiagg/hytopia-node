@@ -3,7 +3,7 @@
     "genesis": {
         "nonce": "0x0000000000000000",
         "timestamp": "0x0",
-        "extraData": "0x0000000000000000000000000000000000000000000000000000000000000000f903aaf9033ef90339f8a394466e86db19daf0098370a479b8c3620049757b0eb880040af79f91310a750d556ae9cc2ecdba92ea963f555748f2f8193230fa9b14881352707b2f967830a166fe128838ecac2a785b70dcb270aa07fd91399c6968600919ab03c4b83106430d53e993b9e92a09914725bfd2f718a1931acaec4294410f1811dfe7f2fb8e047a9aedba58e7aea40cce107ff5be0cfca543a8a0fedbd88ad3c21bcecceda100000001f8a394d2ed76283abdc8f58e63e3edd2e83f537d71b502b8800bbaccae9c6ec4d7e13d32ee431b03dc47da79ec2995781280420d423048c7a726ac6e63338bd0865fba2c5e59b644111ce57f96237bcff354b224626f48b6ac1234c34391ecf765a2b894e43745b09a8692446d043dc5b827ec7bf4fa7bf4182eaafa1a0b8daa622127bddb56ceee7f69d38d56ba8641f45075b02ab984dcad8ad3c21bcecceda100000001f8a394fa3b3664302de5c11ace1c95b6dd7bdae6cd5166b8802089fe72fd9a3abf31b8a6729e3dc9a7183b14eac6c1d957973beef0c776a34722fddedab43ab72328f58eac17d6e792430dfbef5c82690a45967cf33f36823e19f0a13e4644a091063139fddb7b60eb06b5feb8854ff4ab5d14b72095d633650413bc28ba852f137031893246c1856677526e8ae987060b0713a60bb598b1ac8ad3c21bcecceda100000001f8a39462f0a95eff3ade20d402bb9e310cce883f1d8105b8800125e28bcfee0673ed16ec78c8cd6a94cb5b8576ca832ec03d49f998d021d65e11d01e4e705d77b9aee1aaac9b46ee7a69a93a0b21f7cc4bdadb11d80d7cacdb074c39087a2ca958925828f336efd0404fc422f1f0bd5e32b612bf7708dbbaac13f3ae058b38cfc67137d659f010297f6b8035831e0c05558b0f2f6a969a5c978ad3c21bcecceda100000001f8a394b69d008ae3cfeb314f72ee8cfa50d284a2580f47b8802b9359358acee1f59d6bf244eb27193dcc2c064a5c6fd7def22462aa7e2ace700958edc0f2e1ea3035ff9932cd721ef5cd92fd026f13a7cb0c7b1b73fa58509723b97fd47752d4c4c2a520007e487ee862aee69d6d9c4e0aa4dcdf5e700ec1be01fb75c51f67db55ca1dd635abd1392eb6eed40e5005bd4aa43c00d296883c058ad3c21bcecceda100000001c080c0c0f8658080a00000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+        "extraData": "0x0000000000000000000000000000000000000000000000000000000000000000f9044ff903e3f903def8a394a206f29c27339134a1184c727406ce21e52bd40db8800b170d50933d079b1c44644aaadf70a3d1c875bf2b29069432a0b3af7aa448051cf9b645799ab310a69cbc927ffb7f5aa0023db91565e54940e8be6690fd6014255b4b90b24574637428db16a1eb4075044bd4c556d78b85ab1e6fef6e50e5f22e973c04ab61f5800af76d1b62541cc1e84b1a7ff8250ad2326f5cc31d82dc828ad3c21bcecceda100000001f8a394423e67394f3996c881c6ed5d0eb6beb69c25e6c1b880176ebd2ec9f90284bfad2277ef0a8de2193e1767d7d4833c65820c57009d9cd70b5049e7743d53281b49995de374ec19f53f8faf80d3bdc2b6ff2d73c0f99abf0cdb4dddc4113c49bdec7299a91a6f96f2cde7b736a5d6337566c87d479455ca1c7560865f719f1dfc325eebf815f931b90de9c7e5fceb0d84ee2cc78b3f1f1d8ad3c21bcecceda100000001f8a394cd9973ad87e35f84b4204d4f9da46bc1e58b42cbb88009e85bb867980633a879b6def0c230c9f7600ff1a29987e59dbd7e23220ba09a0af91b31d553b2c1210429e34f8fef4e931595d0966f2da83b16f323284fa4a50e1a772496e616f1bdd944e324ebf2bd6a4b699c448a36ca7557af261deec30c1ddd16c8955a4784393f22a69cdaae169ee1f5e79c512c00f2951c22bc1f4cbe8ad3c21bcecceda100000001f8a3941f2817ea23491bb7f3a98eb6d1ddc7a363ba39feb88008055f5c71aaeb80b687b1d353c55c68eb5c07f65743075aefad6e5ccee3068a0f4b0fa1a387b4cbe782cde312cbe860a534c43ef6dce1292597eece89970a28003e93f9b4bbad0cc5d4dd412b9ae753f6e0dea77a62dcc1f0121487583c5550147348aa50a5ce4d30e336aca471f8aa80d9c9d83bc52311dcb52a9da6e1d69b8ad3c21bcecceda100000001f8a39457f5ec1554b419de0aad7ba2da4c519b80f14ab8b8802c391089dc4efb46d76c5fdbb91dabe22b09938645b19c9ade88d8fd93782c4424222a78320318d6ab46ac9feb9ef354f375bcd0c1f5721a3c7bb31f04a628521dec8f4527275e31897c3151478fc4c747428b95b14be23ac39b8028c1ba375a0fe08a02e1437bf8551faf926a1f18ce36a5a7f8d1f70a868f40a462d48501d08ad3c21bcecceda100000001f8a39447edaf90bcb3a64571620d374c524cf519c86206b880044b4d4348541119b4e4106e1201b54bd01e2a4462ed14da0eb1c44f8e4db4150913ba6ebf31362b3ab303765a458c4a047fcecbce77b70e12b12583d9ab0b7f2e43922f66c8a51907b3d5f003c41171bafa34df20f0ba2fc3aa240f6c4436e002bfc00ff7c1ba33e2cd5ae30498af408edf5ef3feb6359be09fe714ff8986608ad3c21bcecceda100000001c080c0c0f8658080a00000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
         "gasLimit": "0x2faf080",
         "difficulty": "0x0",
         "mixHash": "0xadce6e5230abe012342a44e4e9b6d05997d6f015387ae0e59be924afc7ec70c1",
@@ -131,58 +131,64 @@
             "polybft": {
                 "initialValidatorSet": [
                     {
-                        "address": "0x466E86DB19DAf0098370a479B8C3620049757B0E",
-                        "blsKey": "040af79f91310a750d556ae9cc2ecdba92ea963f555748f2f8193230fa9b14881352707b2f967830a166fe128838ecac2a785b70dcb270aa07fd91399c6968600919ab03c4b83106430d53e993b9e92a09914725bfd2f718a1931acaec4294410f1811dfe7f2fb8e047a9aedba58e7aea40cce107ff5be0cfca543a8a0fedbd8",
+                        "address": "0xa206F29c27339134A1184C727406cE21e52Bd40d",
+                        "blsKey": "0b170d50933d079b1c44644aaadf70a3d1c875bf2b29069432a0b3af7aa448051cf9b645799ab310a69cbc927ffb7f5aa0023db91565e54940e8be6690fd6014255b4b90b24574637428db16a1eb4075044bd4c556d78b85ab1e6fef6e50e5f22e973c04ab61f5800af76d1b62541cc1e84b1a7ff8250ad2326f5cc31d82dc82",
                         "stake": "0xd3c21bcecceda1000000",
-                        "multiAddr": "/ip4/54.202.167.63/tcp/10001/p2p/16Uiu2HAm8hjNRJ8KxPKiTGkwxjRaMq3XgvRsLy2K68zP5zZFMTk9"
+                        "multiAddr": "/ip4/10.0.6.115/tcp/10001/p2p/16Uiu2HAmDFky7bVSVaKW9C513FBL1Xub6hLNPM8hkimZvM95wRaG"
                     },
                     {
-                        "address": "0xD2ed76283AbDc8f58E63E3EDD2e83F537d71b502",
-                        "blsKey": "0bbaccae9c6ec4d7e13d32ee431b03dc47da79ec2995781280420d423048c7a726ac6e63338bd0865fba2c5e59b644111ce57f96237bcff354b224626f48b6ac1234c34391ecf765a2b894e43745b09a8692446d043dc5b827ec7bf4fa7bf4182eaafa1a0b8daa622127bddb56ceee7f69d38d56ba8641f45075b02ab984dcad",
+                        "address": "0x423E67394F3996C881c6eD5d0Eb6Beb69C25E6c1",
+                        "blsKey": "176ebd2ec9f90284bfad2277ef0a8de2193e1767d7d4833c65820c57009d9cd70b5049e7743d53281b49995de374ec19f53f8faf80d3bdc2b6ff2d73c0f99abf0cdb4dddc4113c49bdec7299a91a6f96f2cde7b736a5d6337566c87d479455ca1c7560865f719f1dfc325eebf815f931b90de9c7e5fceb0d84ee2cc78b3f1f1d",
                         "stake": "0xd3c21bcecceda1000000",
-                        "multiAddr": "/ip4/54.191.104.142/tcp/10001/p2p/16Uiu2HAkxs13k6Ww1h1XK4A2b7wF7ECwTiDDqCoTdQoAdtMWuVAL"
+                        "multiAddr": "/ip4/10.1.4.85/tcp/10001/p2p/16Uiu2HAm8YS2BsEqAG3sic2LWkG3WH7w5YdPHRDqptxaHeKvwh4X"
                     },
                     {
-                        "address": "0xfa3b3664302de5c11Ace1c95b6dD7bDae6cd5166",
-                        "blsKey": "2089fe72fd9a3abf31b8a6729e3dc9a7183b14eac6c1d957973beef0c776a34722fddedab43ab72328f58eac17d6e792430dfbef5c82690a45967cf33f36823e19f0a13e4644a091063139fddb7b60eb06b5feb8854ff4ab5d14b72095d633650413bc28ba852f137031893246c1856677526e8ae987060b0713a60bb598b1ac",
+                        "address": "0xCd9973aD87e35F84b4204D4F9da46bC1e58B42cB",
+                        "blsKey": "09e85bb867980633a879b6def0c230c9f7600ff1a29987e59dbd7e23220ba09a0af91b31d553b2c1210429e34f8fef4e931595d0966f2da83b16f323284fa4a50e1a772496e616f1bdd944e324ebf2bd6a4b699c448a36ca7557af261deec30c1ddd16c8955a4784393f22a69cdaae169ee1f5e79c512c00f2951c22bc1f4cbe",
                         "stake": "0xd3c21bcecceda1000000",
-                        "multiAddr": "/ip4/35.92.249.207/tcp/10001/p2p/16Uiu2HAmLLZsVSZS6TiHVkzAttgeD8oAbjG3QzZsUX8fxZ4tpRLw"
+                        "multiAddr": "/ip4/10.0.5.198/tcp/10001/p2p/16Uiu2HAmJPWXKtP3kj7edUfPcFaCffo2uE33U8gf52Lo7tGcBFS2"
                     },
                     {
-                        "address": "0x62f0A95EFf3adE20d402BB9e310cCE883f1D8105",
-                        "blsKey": "0125e28bcfee0673ed16ec78c8cd6a94cb5b8576ca832ec03d49f998d021d65e11d01e4e705d77b9aee1aaac9b46ee7a69a93a0b21f7cc4bdadb11d80d7cacdb074c39087a2ca958925828f336efd0404fc422f1f0bd5e32b612bf7708dbbaac13f3ae058b38cfc67137d659f010297f6b8035831e0c05558b0f2f6a969a5c97",
+                        "address": "0x1f2817ea23491bb7F3A98EB6D1DDC7A363BA39fE",
+                        "blsKey": "08055f5c71aaeb80b687b1d353c55c68eb5c07f65743075aefad6e5ccee3068a0f4b0fa1a387b4cbe782cde312cbe860a534c43ef6dce1292597eece89970a28003e93f9b4bbad0cc5d4dd412b9ae753f6e0dea77a62dcc1f0121487583c5550147348aa50a5ce4d30e336aca471f8aa80d9c9d83bc52311dcb52a9da6e1d69b",
                         "stake": "0xd3c21bcecceda1000000",
-                        "multiAddr": "/ip4/54.184.236.212/tcp/10001/p2p/16Uiu2HAmURvJXZAgF6K5s1HK7MtvkfJPNkc4Wsro9zq2S4P4Qizp"
+                        "multiAddr": "/ip4/10.0.4.206/tcp/10001/p2p/16Uiu2HAm7xr2GS1N4imbXxtKxetp2gt3rY4PvPPSCxoPtDG5Pftp"
                     },
                     {
-                        "address": "0xb69d008AE3cFEB314f72EE8Cfa50D284a2580F47",
-                        "blsKey": "2b9359358acee1f59d6bf244eb27193dcc2c064a5c6fd7def22462aa7e2ace700958edc0f2e1ea3035ff9932cd721ef5cd92fd026f13a7cb0c7b1b73fa58509723b97fd47752d4c4c2a520007e487ee862aee69d6d9c4e0aa4dcdf5e700ec1be01fb75c51f67db55ca1dd635abd1392eb6eed40e5005bd4aa43c00d296883c05",
+                        "address": "0x57F5ec1554b419de0aAD7BA2Da4C519b80f14Ab8",
+                        "blsKey": "2c391089dc4efb46d76c5fdbb91dabe22b09938645b19c9ade88d8fd93782c4424222a78320318d6ab46ac9feb9ef354f375bcd0c1f5721a3c7bb31f04a628521dec8f4527275e31897c3151478fc4c747428b95b14be23ac39b8028c1ba375a0fe08a02e1437bf8551faf926a1f18ce36a5a7f8d1f70a868f40a462d48501d0",
                         "stake": "0xd3c21bcecceda1000000",
-                        "multiAddr": "/ip4/35.89.121.179/tcp/10001/p2p/16Uiu2HAkzbNLL1PqqehfgW2xHp8SofSx2SeqZMtQoBns67h5VDJ1"
+                        "multiAddr": "/ip4/10.1.6.12/tcp/10001/p2p/16Uiu2HAmCXJC5MfSzWNEzGYGYMPqQ8anab67coZ81vCuAcr9ZuPS"
+                    },
+                    {
+                        "address": "0x47eDaf90bCb3A64571620D374C524cf519C86206",
+                        "blsKey": "044b4d4348541119b4e4106e1201b54bd01e2a4462ed14da0eb1c44f8e4db4150913ba6ebf31362b3ab303765a458c4a047fcecbce77b70e12b12583d9ab0b7f2e43922f66c8a51907b3d5f003c41171bafa34df20f0ba2fc3aa240f6c4436e002bfc00ff7c1ba33e2cd5ae30498af408edf5ef3feb6359be09fe714ff898660",
+                        "stake": "0xd3c21bcecceda1000000",
+                        "multiAddr": "/ip4/10.1.5.24/tcp/10001/p2p/16Uiu2HAmArizk8PPrp2AcmhFE29ut1uxhqfMj7WdpJmE5ydc8NBM"
                     }
                 ],
                 "bridge": {
-                    "stateSenderAddress": "0x7AcDfAD81A5028F42c76BC145385de5BB3F2F7E8",
-                    "checkpointManagerAddress": "0xa44ad4A5F71D81F3E247a9EaC8DB36d856D8621f",
-                    "exitHelperAddress": "0x2E0bA260fEFf91e364582aD029884ffa98A92AF0",
-                    "erc20PredicateAddress": "0x3Ae9bb31B0c3A61382fb9aA3AcE4D0e94F5C107C",
-                    "erc20ChildMintablePredicateAddress": "0xE088B3723c76Afa72fde5c8001C0769B2aC88C4B",
+                    "stateSenderAddress": "0x00951d8ebaB4C98a25C2eDF85b545B3dC269b2b3",
+                    "checkpointManagerAddress": "0xFB9b6F979f86Fee8bcA1CB8603Acd0Ed7eF144Ec",
+                    "exitHelperAddress": "0x1d33dD24bd22b6449785684719fEbDf4F113064a",
+                    "erc20PredicateAddress": "0x3F9104DB996F13dE42B6c3afD956032533961151",
+                    "erc20ChildMintablePredicateAddress": "0x704C1B4586c5fd9CA2e6Fa461D6b616014903EFd",
                     "nativeERC20Address": "0xa34B8A3951D308450C9e19736086dDbBf1Fa85F3",
-                    "erc721PredicateAddress": "0xB2ee15D51B34Dc3cFd7Ac3454014a513BEd9B2c9",
-                    "erc721ChildMintablePredicateAddress": "0xa87Ea5564CdDF6624029C15c61BFe42DacF92633",
-                    "erc1155PredicateAddress": "0x7c73BF1Afac33319A5Df55c0bcD42c5a364497aa",
-                    "erc1155ChildMintablePredicateAddress": "0xb353aa0DF1f6F41297a0356e141C4F2609a2D444",
-                    "childERC20Address": "0x4b49Be28B14883D5527D42aE5a07d26dD0B2dc44",
-                    "childERC721Address": "0xe96a4FCa0a4F8Ac34674806f88f1427181e82e1a",
-                    "childERC1155Address": "0x6acC32AE678e362fE17792B2737d2D315E655e70",
-                    "customSupernetManagerAddr": "0x1B9A3dE931AF842727e63DC12F861E625eFa4E4D",
-                    "stakeManagerAddr": "0x3dB8432Ffd5137Ef8098393F11c277Ef18028466",
+                    "erc721PredicateAddress": "0xc14C0Cf9c79ae8934Af2775dc565E9c9F9571b61",
+                    "erc721ChildMintablePredicateAddress": "0xa186BaC996B565b256277B6957F7590a9F276331",
+                    "erc1155PredicateAddress": "0xe205b341A1F1D35FF4dadC3ADC11D85df661120B",
+                    "erc1155ChildMintablePredicateAddress": "0x90d25d3883FBC37F08C2850aF5f5496E309Bb951",
+                    "childERC20Address": "0xf0B8c5e3ED2d202638872E4fbd9b294FbaF3d5de",
+                    "childERC721Address": "0x7Be6fa00f51F340C7dE1F16F3aaF19c82C83F52F",
+                    "childERC1155Address": "0x7E82380EFa142D9D6C84b7A5C420be130C737933",
+                    "customSupernetManagerAddr": "0x8Cda43451D1f3fA30920A271c6519e63a917cb8D",
+                    "stakeManagerAddr": "0xF299D77e0A2E05Fc2686fEd8FA9B98287b7E8a76",
                     "stakeTokenAddr": "0xa34B8A3951D308450C9e19736086dDbBf1Fa85F3",
-                    "blsAddr": "0x1A8Ee5f4A977bCa69d57778Cec3B1d1d6A137Ba6",
-                    "bn256G2Addr": "0xf8bDe64350f223b9ab2945aD4E15c33cb3ED8281",
+                    "blsAddr": "0x15c8FEBd84d828FE89D1BF80A2E6dc9C1f6850C5",
+                    "bn256G2Addr": "0xb3110834cF774098133d68DD7c710188009AB553",
                     "jsonRPCEndpoint": "https://eth-sepolia.g.alchemy.com/v2/tff5EJFRD-VqrQV6esB3oYCnajTfUXiK",
                     "eventTrackerStartBlocks": {
-                        "0x7AcDfAD81A5028F42c76BC145385de5BB3F2F7E8": 4057797
+                        "0x00951d8ebaB4C98a25C2eDF85b545B3dC269b2b3": 4094787
                     }
                 },
                 "epochSize": 86400,
@@ -216,11 +222,6 @@
         "burnContractDestinationAddress": "0x0000000000000000000000000000000000000000"
     },
     "bootnodes": [
-        "/ip4/54.202.167.63/tcp/10001/p2p/16Uiu2HAm8hjNRJ8KxPKiTGkwxjRaMq3XgvRsLy2K68zP5zZFMTk9",
-        "/ip4/54.191.104.142/tcp/10001/p2p/16Uiu2HAkxs13k6Ww1h1XK4A2b7wF7ECwTiDDqCoTdQoAdtMWuVAL",
-        "/ip4/35.92.249.207/tcp/10001/p2p/16Uiu2HAmLLZsVSZS6TiHVkzAttgeD8oAbjG3QzZsUX8fxZ4tpRLw",
-        "/ip4/54.245.58.47/tcp/10001/p2p/16Uiu2HAm9GMb2KnUoekMqaUsa9s1J67CxmTvtETVmHcC6AaLMFd9",
-        "/ip4/54.184.236.212/tcp/10001/p2p/16Uiu2HAmURvJXZAgF6K5s1HK7MtvkfJPNkc4Wsro9zq2S4P4Qizp",
-        "/ip4/35.89.121.179/tcp/10001/p2p/16Uiu2HAkzbNLL1PqqehfgW2xHp8SofSx2SeqZMtQoBns67h5VDJ1"
+        "/ip4/3.139.237.145/tcp/10001/p2p/16Uiu2HAm4TZ9CLajRTXkxkySJVCxMpFxWQ4cjCd4kTUyYpueMghW"
     ]
 }
