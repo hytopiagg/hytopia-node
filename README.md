@@ -1,6 +1,6 @@
 # HYTOPIA Node
 
-This is a work in progress repository for running a node on Mac or Linux operating systems.
+This repository contains everything you need to run a HYTOPIA node on a linux or mac machine. Running a node helps support the HYTOPIA network.
 
 ## Quickstart (mainnet)
 
