@@ -76,5 +76,7 @@ fi
 $EDGE_BIN_PATH server --data-dir "${HYTOPIA_NETWORK}/data" \
                       --chain "${HYTOPIA_NETWORK}/genesis.json" \
                       --json-rpc-batch-request-limit 500 \
-                      --seal false \
+                      --grpc-address "0.0.0.0:10000" \
+                      --libp2p "0.0.0.0:10001" \
+                      --jsonrpc "0.0.0.0:10002" \
                       2>&1 | sed 's/polygon/hytopia/g'
