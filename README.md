@@ -6,7 +6,7 @@ This repository contains everything you need to run a HYTOPIA node on a linux or
 
 Open your terminal
 
-1. `git clone https://github.com/Topia-Game/hytopia-node.git`
+1. `git clone https://github.com/hytopiagg/hytopia-node.git`
 1. `cd hytopia-node`
 1. `bash ./run.sh mainnet`
 
