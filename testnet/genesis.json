@@ -245,7 +245,7 @@
                     "stakeTokenAddr": "0xa34B8A3951D308450C9e19736086dDbBf1Fa85F3",
                     "blsAddr": "0x6282ebD4bEB7D4138DFB072B23D34B35aA907911",
                     "bn256G2Addr": "0xadF453E2d5241E306487247Dbe715ddEec468F78",
-                    "jsonRPCEndpoint": "https://mainnet.infura.io/v3/",
+                    "jsonRPCEndpoint": "https://eth.public-rpc.com",
                     "eventTrackerStartBlocks": {
                         "0xFfF73dAdA8C795C74bD4c3e03e6423E442250079": 4485405
                     }
